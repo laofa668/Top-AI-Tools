@@ -21,7 +21,6 @@ Curated list of top AI Tools.
 
 | Tools | Used for | Link |
 |------ | ------------ | :----------: |
-| Wan3Video | Independent browser-based Wan 3.0 text-to-video and image-to-video generator with prompt guides and model comparisons | Free + Premium |
 | DoreArt AI | AI music generator for creating original songs, vocals, lyrics, and instrumental tracks from text prompts | [🔗](https://doreartai.com) |
 | AI Dog Generator | Create AI-generated dog photos or transform your own dog into a variety of artistic styles | [🔗](https://aidoggenerator.com) |
 | [NanoBanana2](https://nanobanana2.com) | Free AI image generator with trend-aware templates, multiple AI models, and advanced editing tools | Free + Premium |
@@ -124,6 +123,7 @@ Curated list of top AI Tools.
 | PixMira AI | AI photo editor and image generator for editing, generating, and transforming images with prompts. | [🔗](https://pixmira.ai) |
 | Picovix | Free AI consistent character & virtual model generator — keep the same face across unlimited scenes from one selfie, no signup | [🔗](https://www.picovix.app/) |
 | Faceless Reels | Turn one topic into a voiced, captioned faceless video for TikTok, Reels, and Shorts. | [🔗](https://facelessreels.video/) |
+| Kling4 | AI video generator offering free daily credits, text-to-video, image-to-video, and ready-to-use video prompts. | [🔗](https://kling40.app/) |
 
 ## Conversational AI
 
